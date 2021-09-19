@@ -1,4 +1,5 @@
 #include <iostream>
+#include "bingo.h"
 using namespace std;
 
 int main(){
